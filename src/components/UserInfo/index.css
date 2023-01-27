@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.userInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.profile-name {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #12022f;
+}
+.designation {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #616e7c;
+}

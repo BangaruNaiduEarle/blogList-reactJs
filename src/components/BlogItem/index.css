@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.list-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.horz-line {
+  color: #9aa5b1;
+}
+.title {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+.description {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
